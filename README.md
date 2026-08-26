@@ -46,215 +46,39 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Cloudbeds Booking Engine](https://www.cloudbeds.com/)**  
-
-  Direct-booking engine integrated with the Cloudbeds hospitality platform, enabling hotels to accept reservations through their own websites and connect booking activity with hotel inventory and operations.
-
-
-
-- **[SiteMinder Booking Engine](https://www.siteminder.com/)**  
-
-  Direct hotel booking engine connected to SiteMinder's hotel commerce and distribution ecosystem, designed to convert website visitors into direct reservations.
-
-
-
-- **[HotelRunner](https://hotelrunner.com/)**  
-
-  Hospitality commerce platform providing booking, distribution, channel-management, property-management, and direct-sales capabilities for accommodation businesses.
-
-
-
-- **[eZee Reservation](https://www.ezeetechnosys.com/)**  
-
-  Online hotel reservation and booking engine that enables properties to accept direct bookings and manage room inventory, rates, promotions, and reservations.
-
-
-
-- **[D-EDGE Booking Engine](https://www.d-edge.com/)**  
-
-  Hotel booking engine and digital-commerce platform designed for direct reservations, conversion optimization, rate presentation, and integration with hotel distribution infrastructure.
-
-
-
-- **[RoomRaccoon](https://roomraccoon.com/)**  
-
-  Integrated hotel-management platform combining PMS, booking engine, channel management, payments, and direct-booking functionality.
-
-
-
-- **[Profitroom](https://www.profitroom.com/)**  
-
-  Hotel direct-sales and booking technology platform focused on increasing direct reservations through booking engines, hotel websites, marketing, and conversion optimization.
-
-
-
-- **[Bookassist](https://www.bookassist.com/)**  
-
-  Hotel digital-commerce platform providing booking-engine, website, digital marketing, and direct-revenue optimization capabilities.
-
-
-
-- **[Vertical Booking](https://www.verticalbooking.com/)**  
-
-  Hospitality technology provider offering booking-engine and distribution solutions for hotels, resorts, and accommodation businesses.
-
-
-
-- **[Net Affinity](https://www.netaffinity.com/)**  
-
-  Hotel direct-booking technology platform combining booking engines, hotel websites, digital marketing, and conversion optimization.
-
-
-
-- **[SynXis Booking Engine](https://www.sabre.com/)**  
-
-  Hotel reservation and distribution technology associated with the Sabre SynXis hospitality ecosystem, supporting direct booking and centralized hotel inventory distribution.
-
-
-
-- **[SHR Booking Engine](https://shrgroup.com/)**  
-
-  Hotel commerce platform providing booking-engine, CRS, digital-marketing, and revenue-oriented technology for hospitality businesses.
-
-
-
-- **[Amadeus iHotelier](https://www.amadeus-hospitality.com/)**  
-
-  Central reservation and hotel-commerce technology providing reservation and distribution capabilities for hotels and hospitality groups.
-
-
-
-- **[TravelClick / Amadeus Central Reservation System](https://www.amadeus-hospitality.com/)**  
-
-  Hotel reservation infrastructure supporting direct bookings, distribution, rates, inventory, and connections across hospitality sales channels.
-
-
-
-- **[Guesty Booking Engine](https://www.guesty.com/)**  
-
-  Direct-booking functionality within Guesty's property-management ecosystem for vacation rentals and hospitality operators.
-
-
-
-- **[Lodgify](https://www.lodgify.com/)**  
-
-  Website and direct-booking platform for vacation rentals and accommodation businesses, including booking websites, reservations, payments, and channel integrations.
-
-
-
-- **[Hostaway](https://www.hostaway.com/)**  
-
-  Property-management platform with direct-booking website and reservation functionality for vacation-rental and hospitality operators.
-
-
-
-- **[Guesty](https://www.guesty.com/)**  
-
-  Property-management and hospitality platform supporting direct reservations, distribution, booking websites, and centralized guest and property operations.
-
-
-
-- **[Hotelogix](https://www.hotelogix.com/)**  
-
-  Cloud hotel-management platform offering online booking and reservation capabilities alongside PMS, channel management, and hotel operations.
-
-
-
-- **[Little Hotelier](https://www.littlehotelier.com/)**  
-
-  Hotel-management platform designed for smaller properties, combining PMS, booking engine, channel management, and direct reservations.
-
-
-
-- **[Cloudbeds](https://www.cloudbeds.com/)**  
-
-  Hospitality management platform combining PMS, booking engine, channel management, payments, and guest-facing booking capabilities.
-
-
-
-- **[Mews](https://www.mews.com/)**  
-
-  Cloud-native hospitality platform providing PMS, payments, guest journey, distribution, and booking-related capabilities.
-
-
-
-- **[Amenitiz](https://amenitiz.com/)**  
-
-  Hospitality platform offering PMS, booking engine, website, channel management, and direct-sales tools for independent hotels.
-
-
-
-- **[RMS Cloud](https://www.rmscloud.com/)**  
-
-  Cloud property-management platform supporting reservations, online bookings, distribution, and accommodation operations.
-
-
-
-- **[WebRezPro](https://webrezpro.com/)**  
-
-  Cloud PMS for independent hotels and lodging businesses with reservation, online booking, distribution, and operational functionality.
-
-
-
-- **[HotelRunner Booking Engine](https://hotelrunner.com/)**  
-
-  Direct booking functionality within HotelRunner's broader hotel commerce and distribution platform.
-
-
-
-- **[Sirvoy](https://sirvoy.com/)**  
-
-  Hotel and accommodation management software with online booking, reservations, channel-management, and direct-booking capabilities.
-
-
-
-- **[Beds24](https://www.beds24.com/)**  
-
-  Cloud reservation and channel-management platform supporting direct booking websites, inventory synchronization, rates, and distribution.
-
-
-
-- **[WuBook](https://en.wubook.net/)**  
-
-  Hotel-management and distribution platform providing booking-engine, channel-management, PMS, and reservation functionality.
-
-
-
-- **[Smoobu](https://www.smoobu.com/)**  
-
-  Vacation-rental management platform with booking website, direct reservations, channel synchronization, and property-management capabilities.
-
-
-
-- **[Rentals United](https://rentalsunited.com/)**  
-
-  Vacation-rental distribution technology connecting accommodation inventory with multiple booking channels and reservation ecosystems.
-
-
-
-- **[Staah](https://www.staah.com/)**  
-
-  Hospitality distribution platform offering booking engine, channel management, reservation, and direct-sales capabilities.
-
-
-
-- **[Djubo](https://djubo.com/)**  
-
-  Hotel technology platform providing booking engine, channel manager, PMS, and digital distribution functionality.
-
-
-
-- **[Hotel-Spider](https://www.hotel-spider.com/)**  
-
-  Hotel distribution and reservation technology supporting booking engines, channel connectivity, and online hotel sales.
-
-
-
-- **[HotelRunner Booking Engine](https://hotelrunner.com/)**  
-
-  Direct booking and reservation capability integrated into HotelRunner's broader property distribution and commerce platform.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Cloudbeds Booking Engine](https://www.cloudbeds.com/)** | Direct-booking engine integrated with the Cloudbeds hospitality platform, connecting direct website bookings with PMS inventory and operations. | Starts from ~$120/mo (approx. $15–$25/room/mo for small independent properties) | No free tier; 1-on-1 personalized guided product demo with sandbox trial upon request |
+| **[SiteMinder Booking Engine](https://www.siteminder.com/)** | Direct hotel booking engine connected to SiteMinder's hotel commerce and distribution ecosystem. | Starts from ~$56–$85/mo ($109–$119/mo for SiteMinder Plus including full booking engine) | 14-day free trial (full feature access, no credit card required) |
+| **[HotelRunner](https://hotelrunner.com/)** | Hospitality commerce and distribution platform with integrated direct booking, channel manager, and PMS capabilities. | Starts from $9.95/mo for basic plan | Free plan available for direct booking button & website widget; 14-day free trial on premium modules |
+| **[eZee Reservation](https://www.ezeetechnosys.com/)** | Online hotel reservation and booking engine enabling properties to process commission-free direct bookings and manage room inventory. | Starts from ~$30–$45/mo (eZee Absolute PMS + Booking Engine bundle ~$30–$70/mo) | 14-day free trial (unlimited features and test room inventory) |
+| **[D-EDGE Booking Engine](https://www.d-edge.com/)** | Hotel booking engine and digital-commerce platform designed for direct reservations and conversion optimization. | Starts from ~$400/mo (entry tier for independent hotels; scales with room count and add-ons) | No free tier; live demo and testing environment available upon sales consultation |
+| **[RoomRaccoon](https://roomraccoon.com/)** | Integrated hotel-management platform combining PMS, booking engine, channel management, and payments. | Starts from ~$180–$207/mo (Entry plan, annual billing for boutique properties) | 14 to 30-day free trial account after initial consultation/demo |
+| **[Profitroom](https://www.profitroom.com/)** | Direct-booking technology and conversion platform focused on increasing direct hotel reservations. | Starts from €39/property/mo (Suite Profit group tier) or 3.5% commission/booking + €69/mo channel manager | No free plan; guided product demo and direct booking ROI audit on request |
+| **[Bookassist](https://www.bookassist.com/)** | Hotel digital-commerce platform providing booking engine, web design, digital marketing, and direct-revenue optimization. | Starts from ~€150/mo base subscription + performance commission per direct reservation | No free plan; live customized product demo and booking audit on request |
+| **[Vertical Booking](https://www.verticalbooking.com/)** | Hospitality technology provider offering modular booking engine and global distribution solutions. | Starts from ~€200–$250/mo (modular base package depending on room count and channels) | No free plan; live interactive product demo provided on request |
+| **[Net Affinity](https://www.netaffinity.com/)** | Hotel direct-booking technology platform combining booking engines, hotel websites, and conversion tools. | Starts from ~$800–$900/mo (fixed subscription suite including booking engine and direct marketing) | No free plan; live product demonstration and website conversion audit upon request |
+| **[SynXis Booking Engine](https://www.sabre.com/)** | Sabre SynXis enterprise hotel reservation and distribution technology supporting direct bookings and central inventory. | Starts from ~$400/mo base platform fee (plus variable GDS / per-transaction fees) | No free plan; enterprise live demo and technical consultation upon request |
+| **[SHR Booking Engine (Windsurfer)](https://shrgroup.com/)** | Hotel commerce and CRS platform providing booking engine, revenue management, and digital marketing tools. | Starts from ~$250–$350/mo (base monthly subscription or tiered per-room-per-month rate) | No free plan; live customized platform demonstration on request |
+| **[Amadeus iHotelier](https://www.amadeus-hospitality.com/)** | Central reservation system (CRS) and hotel commerce technology for independent hotels and hospitality chains. | Starts from ~$450–$500/mo (base platform fee plus per-reservation distribution fees) | No free plan; enterprise live demo and guided technical evaluation on request |
+| **[TravelClick / Amadeus CRS](https://www.amadeus-hospitality.com/)** | Enterprise hotel reservation infrastructure supporting direct booking engines, rates, and distribution channels. | Starts from ~$500/mo (enterprise CRS tier depending on inventory and channels) | No free plan; enterprise product walkthrough and proof of concept on request |
+| **[Guesty Booking Engine](https://www.guesty.com/)** | Direct-booking website builder and reservation engine within Guesty's property-management ecosystem. | Starts from $9/listing/mo (Guesty Lite, annual billing) or $23–$29/listing/mo monthly | 14-day free trial on Guesty Lite (up to 3 listings, full features) |
+| **[Lodgify](https://www.lodgify.com/)** | Direct-booking website builder and reservation software for vacation rentals and boutique accommodations. | Starts from $14–$20/mo (Starter tier, billed annually) + 1.9% booking fee | 7-day free trial (unlimited listings and website builder test, no credit card required) |
+| **[Hostaway](https://www.hostaway.com/)** | Property-management platform with direct-booking website builder and multi-channel reservation functionality. | Starts from ~$100–$150/mo (scalable per-unit pricing for professional operators) | No self-serve trial; live interactive product demo and portfolio onboarding evaluation upon request |
+| **[Hotelogix](https://www.hotelogix.com/)** | Cloud hotel-management platform offering direct booking engine alongside PMS and channel management. | Starts from $7.99/room/mo (Premium plan, ~$65/mo minimum billing) | 15-day free trial (full PMS & booking engine features) |
+| **[Little Hotelier](https://www.littlehotelier.com/)** | All-in-one hotel management software designed for small properties, B&Bs, and boutique inns. | Starts from $39/mo + 1% direct booking fee (Basics plan) or $109/mo flat (Pro plan) | 30-day free trial (full access to booking engine, channel manager, and front desk) |
+| **[Mews](https://www.mews.com/)** | Cloud-native hospitality platform providing booking engine, PMS, guest journey, and payment solutions. | Starts from ~€300/mo (Essentials tier for small independent properties) | No public self-serve trial; live guided sandbox demo upon request |
+| **[Amenitiz](https://amenitiz.com/)** | All-in-one hospitality platform offering PMS, booking engine, website builder, and channel manager. | Starts from €42–€89/mo (Starter package for independent properties) | No ongoing free plan; live 1-on-1 demo with 14-day trial available on select add-on modules |
+| **[RMS Cloud](https://www.rmscloud.com/)** | Cloud property-management platform supporting direct online bookings, channel distribution, and front desk. | Starts from ~$55/mo (base module for small operators) | No self-serve trial; free personalized live demo and guided trial environment upon request |
+| **[WebRezPro](https://webrezpro.com/)** | Cloud PMS with integrated online booking engine, reservation management, and distribution connectivity. | $10/unit/mo (with a $100/mo minimum for properties under 10 units) | No self-serve trial; full live interactive demo and customized sandbox evaluation upon request |
+| **[Sirvoy](https://sirvoy.com/)** | Hotel and accommodation management software with online booking engine, reservations, and channel manager. | Starts from $15/mo (Starter plan, single unit) | Forever-free tier for single-unit properties; 14-day free trial for multi-unit Starter & Pro plans (no credit card required) |
+| **[Beds24](https://www.beds24.com/)** | Cloud property management and channel management platform with customizable booking widgets. | Starts from €8.40/mo (~$10/mo) for 1–2 rooms (plus optional pay-per-module add-ons) | 14-day free trial (full platform functionality, no credit card required) |
+| **[WuBook](https://en.wubook.net/)** | Modular hotel-management and distribution platform providing booking engine (WooDoo/Zak), channel manager, and PMS. | Starts from ~€55/mo for full Zak suite; standalone booking engine module from €18/mo | Free basic PMS account (unlimited time, limited features); 30-day free trial for full Zak suite |
+| **[Smoobu](https://www.smoobu.com/)** | Vacation-rental management software with direct booking website builder, reservation management, and channel sync. | Starts from €29/mo (~$32/mo) billed annually or €35/mo billed monthly (Professional Flex, 1st unit) | 14-day free trial (full Professional features, no credit card required) |
+| **[Rentals United](https://rentalsunited.com/)** | Channel management and distribution platform connecting accommodation inventory with multiple booking channels. | Starts from $330/mo (Pro plan for 10–50 listings; single-unit channel connections from ~€107/mo) | No self-serve trial; guided product demonstration and channel distribution audit on request |
+| **[STAAH](https://www.staah.com/)** | Hospitality distribution platform offering booking engine (Max Booking Engine), channel management, and gift vouchers. | Starts from ~$70–$80/mo (Max Booking Engine & Channel Manager entry tier) | No self-serve trial; live product demo and direct booking consultation upon request |
+| **[Djubo](https://djubo.com/)** | Cloud hotel technology suite offering booking engine, channel manager, PMS, and centralized reservation system. | Starts from ~$46/mo (entry tier) to ₹8,149/mo (~$98–$180/mo for 10+ rooms Master Hotelier suite) | No self-serve trial; live demo and guided testing sandbox upon request |
+| **[Hotel-Spider](https://www.hotel-spider.com/)** | Swiss-developed hotel distribution and direct booking engine connecting website visitors to hotel reservations. | Starts from €89/mo (for properties up to 10 rooms via partner marketplace) | 30-day free trial (full access to booking engine & channel manager) |
 
 
 
